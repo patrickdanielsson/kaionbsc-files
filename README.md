@@ -1,6 +1,4 @@
-# Your Favicon Package
-
-This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
+# Favicon Package
 
 ## Install instructions
 
@@ -24,5 +22,3 @@ Insert the following code in the `head` section of your pages:
     <meta name="msapplication-TileImage" content="https://files.kaionbsc.xyz/mstile-144x144.png">
     <meta name="msapplication-config" content="https://files.kaionbsc.xyz/browserconfig.xml">
     <meta name="theme-color" content="#5bbad5">
-
-*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)

@@ -1,6 +1,7 @@
 {
     "name": "Mint K(AI)",
     "short_name": "Mint K(AI)",
+    "description": "Mint K(AI)",
     "icons": [
         {
             "src": "https://files.kaionbsc.xyz/android-chrome-192x192.png",
@@ -15,6 +16,7 @@
     ],
     "theme_color": "#5bbad5",
     "background_color": "#5bbad5",
-    "start_url": "https://www.kaionbsc.xyz",
+    "scope": "./",
+    "start_url": "./",
     "display": "standalone"
 }
