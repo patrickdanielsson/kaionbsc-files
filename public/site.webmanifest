@@ -17,7 +17,7 @@
     ],
     "theme_color": "#5bbad5",
     "background_color": "#5bbad5",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "https://www.kaionbsc.xyz/",
+    "start_url": "https://www.kaionbsc.xyz/",
     "display": "standalone"
 }
